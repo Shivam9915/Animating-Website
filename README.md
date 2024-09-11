@@ -20,3 +20,8 @@ To contribute to this project or modify the code, follow these steps:
 3.Make changes to the code as needed
 4.Test the changes by opening the index.html file in a web browser
 5.Commit and push your changes to the repository
+
+Live Demo:-
+  You can view the live website at:
+  https://shivam9915.github.io/Animating-Website/ 
+
